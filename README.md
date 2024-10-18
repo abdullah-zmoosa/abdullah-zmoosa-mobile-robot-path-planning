@@ -1,13 +1,19 @@
-# abdullah-zmoosa-mobile-robot-path-planning
-
-##Mobile Robot Path Planning in ROS1
+# Mobile Robot Path Planning in ROS1
 
 Coursework focused on mobile-robot-path-planning in ROS1. Developed with tools from The Construct.
 
-###Usage Notice
+## Usage Notice
 
--Unauthorized copying or redistribution of this work is not allowed.
+- This work is part of a university project.
+- Unauthorized copying or redistribution of this work is not allowed.
+- Please respect academic integrity and avoid using any part of this work without proper permission.
 
--Please respect academic integrity and avoid using any part of this work without proper permission.
+## Overview
 
--This course was used for learning purposes refer to the Construct for more information 
+- **Tools Used**: ROS1, Rviz, Gazebo, Python.
+- **Scope**: Implementing potential field path planning, including attractive and repulsive forces for mobile robots.
+
+## Contact
+
+For questions related to this work, feel free to reach out.
+
